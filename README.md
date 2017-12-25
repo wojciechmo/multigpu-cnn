@@ -1,5 +1,7 @@
 # MultiGPU CNN
 
+Clear multiple GPU Convolutional Neural Network trainig imlementation with Tensorflow.
+
 ## Usage
 Prepare training and testing files - each row should contain class and image path.
 ```
@@ -9,9 +11,4 @@ python make_tfrecord.py --list-path=./train.txt --tfrecord-path=./train.tfrecord
 python make_tfrecord.py --list-path=./test.txt --tfrecord-path=./test.tfrecord
 python train.py
 ```
-
-<img src="https://s14.postimg.org/kp2yzudoh/loss_accuracy.png" width="500">
-
-<img src="https://s14.postimg.org/iyjxy38xd/histogram.png" width="500">
-
-<img src="https://s14.postimg.org/4fcswq5ip/distribution.png" width="500">
+<img src="https://s14.postimg.org/73297bqwx/sum.png" width="500">
