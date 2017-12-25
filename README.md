@@ -11,3 +11,7 @@ python train.py
 ```
 
 <img src="https://s14.postimg.org/kp2yzudoh/loss_accuracy.png" width="500">
+
+<img src="https://s14.postimg.org/iyjxy38xd/histogram.png" width="500">
+
+<img src="https://s14.postimg.org/4fcswq5ip/distribution.png" width="500">
