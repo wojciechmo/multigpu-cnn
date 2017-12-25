@@ -1,1 +1,1 @@
-# multigpu_cnn
+# MultiGPU CNN
