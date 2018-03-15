@@ -3,10 +3,8 @@
 Clear multiple GPU Convolutional Neural Network trainig imlementation with Tensorflow.
 
 <img src="https://s14.postimg.org/86qywso0h/full.png" width="250">
-<p float="left">
-  <img src="https://s14.postimg.org/3kuuok535/train_batch.png" width="300"/> 
-  <img src="https://s14.postimg.org/p79v5mlo1/test_batch.png" width="300"/>
-</p>
+<img src="https://s14.postimg.org/3kuuok535/train_batch.png" width="300"/> 
+
 <img src="https://s14.postimg.org/ovsesoab5/net.png" width="600">
 <img src="https://s14.postimg.org/jo7bo0jdd/tower.png" width="800">
 <img src="https://s14.postimg.org/mjkeuwpy9/optimizer.png" height="300">
